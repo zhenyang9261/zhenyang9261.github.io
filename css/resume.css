@@ -171,8 +171,8 @@ p.lead {
 }
 
 section.resume-section {
-  padding-top: 4rem !important;
-  padding-bottom: 4rem !important;
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
   max-width: 75rem;
 }
 
@@ -182,7 +182,7 @@ section.resume-section .resume-item .resume-date {
 
 @media (min-width: 768px) {
   section.resume-section {
-    min-height: 100vh;
+    /* min-height: 100vh; */
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
