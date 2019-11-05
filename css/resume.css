@@ -212,3 +212,11 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.github-link {
+  color: #347E98
+}
+
+.github-link:hover {
+  color: #824027;
+}
