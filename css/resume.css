@@ -220,3 +220,11 @@ a:hover, a:focus, a:active {
 .github-link:hover {
   color: #824027;
 }
+
+.works-row {
+  margin-top: 1em !important;
+}
+
+.works-box {
+  border: #eeeeee solid 2px;
+}
