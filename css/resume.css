@@ -182,7 +182,7 @@ section.resume-section .resume-item .resume-date {
 
 @media (min-width: 768px) {
   section.resume-section {
-    /* min-height: 100vh; */
+     min-height: 100vh; 
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
@@ -219,4 +219,28 @@ a:hover, a:focus, a:active {
 
 .github-link:hover {
   color: #824027;
+}
+
+.works-row {
+  margin-top: 1em !important;
+}
+
+.works-box {
+  border: #eeeeee solid 2px;
+}
+
+.card-header {
+  padding: 0 2rem;
+}
+
+.btn-works {
+  font-size: 1rem;
+  line-height: 1rem;
+  width: 70%;
+  font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; 
+
+}
+
+.accordion-works {
+  width: 100%;
 }
