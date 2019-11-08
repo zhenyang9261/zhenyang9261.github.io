@@ -256,3 +256,7 @@ a:hover, a:focus, a:active {
   background-color: #495057;
   color: #fff;
 }
+
+.btn-resume:hover {
+  background-color: #347E98;
+}
