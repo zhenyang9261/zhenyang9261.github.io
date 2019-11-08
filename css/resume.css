@@ -85,6 +85,7 @@ p.lead {
   font-size: 1.5rem;
   line-height: 3.5rem;
   margin-right: 1rem;
+  float: left;
 }
 
 .social-icons a:last-child {
@@ -243,4 +244,15 @@ a:hover, a:focus, a:active {
 
 .accordion-works {
   width: 100%;
+}
+
+.view-resume {
+  display: inline-block;
+  float: left;
+  margin: 0.3em 2em;
+}
+
+.btn-resume {
+  background-color: #495057;
+  color: #fff;
 }
